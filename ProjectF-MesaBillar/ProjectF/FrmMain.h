@@ -85,7 +85,7 @@ namespace ProjectF {
 			this->ClientSize = System::Drawing::Size(1023, 596);
 			this->Controls->Add(this->panel1);
 			this->Name = L"FrmMain";
-			this->Text = L"FrmMain";
+			this->Text = L"Mesa de billar";
 			this->KeyDown += gcnew System::Windows::Forms::KeyEventHandler(this, &FrmMain::FrmMain_KeyDown);
 			this->MouseClick += gcnew System::Windows::Forms::MouseEventHandler(this, &FrmMain::FrmMain_MouseClick);
 			this->ResumeLayout(false);

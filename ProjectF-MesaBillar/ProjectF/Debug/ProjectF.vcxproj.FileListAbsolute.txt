@@ -2,3 +2,7 @@ D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\SEMANAS\EFinal\ProjectoF\Project
 D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\SEMANAS\EFinal\ProjectoF\ProjectF\ProjectF\Debug\ProjectF.FrmMain.resources
 D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\SEMANAS\EFinal\ProjectoF\ProjectF\ProjectF\Debug\ProjectF.vcxproj.GenerateResource.cache
 D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\SEMANAS\EFinal\ProjectoF\ProjectF\ProjectF\Debug\ProjectF.vcxproj.SuggestedBindingRedirects.cache
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\SEMANAS\EFinal\ProjectoF\ProjectF-MesaBillar\ProjectF\Debug\ProjectF.vcxproj.AssemblyReference.cache
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\SEMANAS\EFinal\ProjectoF\ProjectF-MesaBillar\ProjectF\Debug\ProjectF.vcxproj.SuggestedBindingRedirects.cache
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\SEMANAS\EFinal\ProjectoF\ProjectF-MesaBillar\ProjectF\Debug\ProjectF.FrmMain.resources
+D:\Escritorio\CICLOS\3ER CICLO\CURSOS\PROGRA II\SEMANAS\EFinal\ProjectoF\ProjectF-MesaBillar\ProjectF\Debug\ProjectF.vcxproj.GenerateResource.cache
